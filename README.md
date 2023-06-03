@@ -100,6 +100,10 @@ https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/50cbf594-4f06-
 
 ![4343](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/2468fa13-c321-4e2d-9fef-3fec911e6122)
 
+![ProdukteVerwalten](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/5bef9cc4-d8d2-4ade-88bf-80f891ab32d2)
+![ProdukteVerwalten (2)](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/ef238204-45ec-4f7f-8396-774c6a0f0e03)
+
+
 # 9. Author 
 Viktor Legradi-Göhring
 
