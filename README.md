@@ -1,4 +1,4 @@
-# PizzaParadiseV1.0
+# PizzaParadise_v1.0
 
 - Inhaltsverzeichnis
 - Einleitung
