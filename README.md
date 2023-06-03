@@ -30,7 +30,7 @@ Willkommen zu PizzaParadise, einer Webanwendung, die es Kunden ermöglicht, Pizz
 - Laden Sie das PizzaParadise-ZIP-Archiv herunter oder klonen Sie das Projekt aus dem GitHub-Repository.
 - Entpacken Sie das Archiv und öffnen Sie das Hauptverzeichnis des Projekts.
 - Stellen Sie sicher, dass eine geeignete Datenbank vorhanden ist und die Verbindungsinformationen vorliegen.
-- Konfigurieren Sie die Datenbankverbindung, indem Sie die entsprechenden Einstellungen in der Konfigurationsdatei des Backends (backend/config.js) anpassen.
+- Konfigurieren Sie die Datenbankverbindung, indem Sie die entsprechenden Einstellungen des Backends also index.js anpassen.
 - Öffnen Sie eine Kommandozeile im Hauptverzeichnis des Projekts und führen Sie den Befehl npm install aus, um alle erforderlichen Abhängigkeiten zu installieren.
 - Starten Sie das Backend, indem Sie den Befehl npm start oder node app.js im Backend-Verzeichnis ausführen.
 - Öffnen Sie eine neue Kommandozeile im Hauptverzeichnis des Projekts und navigieren Sie in das Frontend-Verzeichnis.
