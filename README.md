@@ -102,6 +102,8 @@ https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/50cbf594-4f06-
 
 ![ProdukteVerwalten](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/5bef9cc4-d8d2-4ade-88bf-80f891ab32d2)
 ![ProdukteVerwalten (2)](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/ef238204-45ec-4f7f-8396-774c6a0f0e03)
+![SQLDeveloper](https://github.com/viktor900221/PizzaParadise_v1.0/assets/79362660/1a4562a0-b5d5-4858-91ee-50e1ee1b654a)
+![SQLDeveloper2](https://github.com/viktor900221/PizzaParadise_v1.0/assets/79362660/22b21f66-7ba7-453d-bd06-40efd99d4bba)
 
 
 # 9. Author 
