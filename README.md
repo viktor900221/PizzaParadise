@@ -21,7 +21,7 @@ Willkommen zu PizzaParadise, einer Webanwendung, die es Kunden ermöglicht, Pizz
 - Internetverbindung
 - Unterstützung für moderne Webtechnologien wie HTML5, CSS3 und Vue.js
 - Node.js und NPM (Node Package Manager)
-- Datenbank mit Unterstützung für SQL (z.B. MySQL, PostgreSQL)
+- Datenbank mit Unterstützung für SQL (z.B. Oracle, MySQL, PostgreSQL)
 
 # 3. Installation
 ## Folgende Schritte sind erforderlich, um PizzaParadise lokal aufzusetzen:
