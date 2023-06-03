@@ -82,6 +82,24 @@ Zusätzlich zu den grundlegenden Funktionen bietet PizzaParadise auch erweiterte
 - Frontend mit Vue.js: Die Benutzeroberfläche wird mit Vue.js entwickelt, einem leistungsstarken JavaScript-Framework. Dadurch wird eine reaktive und benutzerfreundliche Erfahrung für Kunden und Mitarbeiter ermöglicht.
 - Echtzeitaktualisierung: Die Änderungen an Bestellungen und deren Status werden in Echtzeit über das Frontend aktualisiert. Dadurch werden Kunden sofort über Änderungen informiert und der Bestellprozess optimiert.
 
+# Videos:
+
+
+https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/a00d7365-88fe-4646-9238-d4d0b52043c9
+
+
+
+
+https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/50cbf594-4f06-4ac1-afe0-bbf0a33fe819
+
+
+
+# Screenshots:
+
+![12222](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/13506734-45d6-4a54-bcbc-94d787b4478b)
+
+![4343](https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/2468fa13-c321-4e2d-9fef-3fec911e6122)
+
 # 9. Author 
 Viktor Legradi-Göhring
 
