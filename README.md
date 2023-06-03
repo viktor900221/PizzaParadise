@@ -1,4 +1,4 @@
-# PizzaParadise_v1.0
+# PizzaParadise_v1.0 (Vue.js + Node.js + Express.js + OracleDB)
 
 - Inhaltsverzeichnis
 - Einleitung
