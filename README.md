@@ -1,4 +1,4 @@
-# PizzaParadise_v1.0 (Vue.js + Node.js + Express.js + OracleDB)
+# MensaMeister (Vue.js + Node.js + Express.js + OracleDB)
 
 - Inhaltsverzeichnis
 - Einleitung
@@ -12,10 +12,10 @@
 - Kontakt
 
 # 1. Einleitung
-Willkommen zu PizzaParadise, einer Webanwendung, die es Kunden ermöglicht, Pizzen auszuwählen, in den Warenkorb zu legen, Bestellungen aufzugeben und vergangene Bestellungen einzusehen. Die Anwendung verfügt über ein Frontend, das sowohl eine Benutzeroberfläche für Kunden als auch eine Benutzeroberfläche für Mitarbeiter bietet. Das Backend dient der Verwaltung der Anwendung und enthält die API-Schnittstelle, die mit Node.js und Express.js entwickelt wurde.
+Willkommen zu MensaMeister, einer Webanwendung, die es Kunden ermöglicht, Pizzen auszuwählen, in den Warenkorb zu legen, Bestellungen aufzugeben und vergangene Bestellungen einzusehen. Die Anwendung verfügt über ein Frontend, das sowohl eine Benutzeroberfläche für Kunden als auch eine Benutzeroberfläche für Mitarbeiter bietet. Das Backend dient der Verwaltung der Anwendung und enthält die API-Schnittstelle, die mit Node.js und Express.js entwickelt wurde.
 
 # 2. Systemanforderungen
-## Um PizzaParadise erfolgreich zu nutzen, müssen folgende Systemanforderungen erfüllt sein:
+## Um MensaMeister erfolgreich zu nutzen, müssen folgende Systemanforderungen erfüllt sein:
 
 - Webbrowser mit JavaScript-Unterstützung
 - Internetverbindung
@@ -24,10 +24,10 @@ Willkommen zu PizzaParadise, einer Webanwendung, die es Kunden ermöglicht, Pizz
 - Datenbank mit Unterstützung für SQL (z.B. Oracle, MySQL, PostgreSQL)
 
 # 3. Installation
-## Folgende Schritte sind erforderlich, um PizzaParadise lokal aufzusetzen:
+## Folgende Schritte sind erforderlich, um MensaMeister lokal aufzusetzen:
 
 - Stellen Sie sicher, dass die erforderlichen Systemanforderungen erfüllt sind.
-- Laden Sie das PizzaParadise-ZIP-Archiv herunter oder klonen Sie das Projekt aus dem GitHub-Repository.
+- Laden Sie das MensaMeister-ZIP-Archiv herunter oder klonen Sie das Projekt aus dem GitHub-Repository.
 - Entpacken Sie das Archiv und öffnen Sie das Hauptverzeichnis des Projekts.
 - Stellen Sie sicher, dass eine geeignete Datenbank vorhanden ist und die Verbindungsinformationen vorliegen.
 - Konfigurieren Sie die Datenbankverbindung, indem Sie die entsprechenden Einstellungen des Backends also index.js anpassen.
@@ -48,7 +48,7 @@ Willkommen zu PizzaParadise, einer Webanwendung, die es Kunden ermöglicht, Pizz
 - Durchsuchen Sie die Produktauswahl, fügen Sie Artikel zum Warenkorb hinzu und schließen Sie die Bestellung ab.
 - Überprüfen Sie vergangene Bestellungen und laden Sie die generierten Rechnungen als PDF herunter.
 
-### Mitarbeiter von PizzaParadise
+### Mitarbeiter von MensaMeister
 
 - Registrieren Sie sich, um ein Konto zu erstellen und auf die Adminoberfläche zuzugreifen.
 - Verwalten Sie Bestellungen, indem Sie den Status ändern und die Bestelldetails bearbeiten.
@@ -58,10 +58,10 @@ Willkommen zu PizzaParadise, einer Webanwendung, die es Kunden ermöglicht, Pizz
 - Bitte beachten Sie, dass für den Zugriff auf die Kundenoberfläche und die Adminoberfläche separate Anmeldeinformationen erforderlich sind.
 
 # 5. API-Schnittstelle
-PizzaParadise bietet eine API-Schnittstelle, die es Entwicklern ermöglicht, auf die Funktionalitäten der Anwendung zuzugreifen. Die API ist mit Node.js und Express.js implementiert und unterstützt HTTP-Anfragen für verschiedene Aktionen wie das Abrufen von Produkten, das Aufgeben von Bestellungen und das Verwalten von Bestelldetails. Eine detaillierte Dokumentation der API-Endpunkte und ihrer Verwendung finden Sie in der bereitgestellten API-Dokumentation.
+MensaMeister bietet eine API-Schnittstelle, die es Entwicklern ermöglicht, auf die Funktionalitäten der Anwendung zuzugreifen. Die API ist mit Node.js und Express.js implementiert und unterstützt HTTP-Anfragen für verschiedene Aktionen wie das Abrufen von Produkten, das Aufgeben von Bestellungen und das Verwalten von Bestelldetails. Eine detaillierte Dokumentation der API-Endpunkte und ihrer Verwendung finden Sie in der bereitgestellten API-Dokumentation.
 
 # 6. Backend-Funktionalitäten
-Das Backend von PizzaParadise bietet umfangreiche Funktionen zur Verwaltung der Anwendung. Hier sind einige der wichtigsten Funktionen:
+Das Backend von MensaMeister bietet umfangreiche Funktionen zur Verwaltung der Anwendung. Hier sind einige der wichtigsten Funktionen:
 
 - Verwaltung von Kunden: Registrierung, Anmeldung und Verwaltung von Kundendaten.
 - Produktverwaltung: Erstellen, Aktualisieren und Löschen von Produkten.
@@ -70,10 +70,10 @@ Das Backend von PizzaParadise bietet umfangreiche Funktionen zur Verwaltung der 
 - Mitarbeiterverwaltung: Anmeldung und Verwaltung von Mitarbeiterkonten mit unterschiedlichen Berechtigungen.
 
 # 7. Datenbank
-PizzaParadise verwendet eine SQL-Datenbank (z.B. MySQL oder PostgreSQL) zur Speicherung von Daten wie Kundeninformationen, Produktdetails, Bestellungen und Rechnungen. Die Datenbanktabellen und -schemata sind im Backend definiert und werden automatisch beim Start der Anwendung erstellt, sofern sie nicht bereits vorhanden sind. Stellen Sie sicher, dass die Verbindungsinformationen zur Datenbank in der Konfigurationsdatei des Backends korrekt angegeben sind.
+MensaMeister verwendet eine SQL-Datenbank (z.B. MySQL oder PostgreSQL) zur Speicherung von Daten wie Kundeninformationen, Produktdetails, Bestellungen und Rechnungen. Die Datenbanktabellen und -schemata sind im Backend definiert und werden automatisch beim Start der Anwendung erstellt, sofern sie nicht bereits vorhanden sind. Stellen Sie sicher, dass die Verbindungsinformationen zur Datenbank in der Konfigurationsdatei des Backends korrekt angegeben sind.
 
 # 8. Erweiterte Funktionen
-Zusätzlich zu den grundlegenden Funktionen bietet PizzaParadise auch erweiterte Funktionen, um die Verwaltung und Analyse der Anwendung zu erleichtern:
+Zusätzlich zu den grundlegenden Funktionen bietet MensaMeister auch erweiterte Funktionen, um die Verwaltung und Analyse der Anwendung zu erleichtern:
 
 - ABC-Kundenanalyse: Analysieren Sie Kunden nach Umsatz und Häufigkeit der Bestellungen, um wertvolle Erkenntnisse über die wichtigsten Kunden zu gewinnen.
 - Einnahmeübersicht: Sehen Sie sich die Einnahmen an, die auf täglicher, wöchentlicher und monatlicher Basis generiert werden. Dadurch erhalten Sie einen Überblick über die finanzielle Leistung der Anwendung.
@@ -85,12 +85,12 @@ Zusätzlich zu den grundlegenden Funktionen bietet PizzaParadise auch erweiterte
 # Videos:
 
 
-https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/a00d7365-88fe-4646-9238-d4d0b52043c9
+https://github.com/viktor900221/MensaMeisterV1.0/assets/79362660/a00d7365-88fe-4646-9238-d4d0b52043c9
 
 
 
 
-https://github.com/viktor900221/PizzaParadiseV1.0/assets/79362660/50cbf594-4f06-4ac1-afe0-bbf0a33fe819
+https://github.com/viktor900221/MensaMeisterV1.0/assets/79362660/50cbf594-4f06-4ac1-afe0-bbf0a33fe819
 
 
 
