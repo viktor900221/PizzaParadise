@@ -70,7 +70,7 @@ Das Backend von MensaMeister bietet umfangreiche Funktionen zur Verwaltung der A
 - Mitarbeiterverwaltung: Anmeldung und Verwaltung von Mitarbeiterkonten mit unterschiedlichen Berechtigungen.
 
 # 7. Datenbank
-MensaMeister verwendet eine SQL-Datenbank (z.B. MySQL oder PostgreSQL) zur Speicherung von Daten wie Kundeninformationen, Produktdetails, Bestellungen und Rechnungen. Die Datenbanktabellen und -schemata sind im Backend definiert und werden automatisch beim Start der Anwendung erstellt, sofern sie nicht bereits vorhanden sind. Stellen Sie sicher, dass die Verbindungsinformationen zur Datenbank in der Konfigurationsdatei des Backends korrekt angegeben sind.
+MensaMeister verwendet eine SQL-Datenbank zur Speicherung von Daten wie Kundeninformationen, Produktdetails, Bestellungen und Rechnungen. Die Datenbanktabellen und -schemata sind im Backend definiert und werden automatisch beim Start der Anwendung erstellt, sofern sie nicht bereits vorhanden sind. Stellen Sie sicher, dass die Verbindungsinformationen zur Datenbank in der Konfigurationsdatei des Backends korrekt angegeben sind.
 
 # 8. Erweiterte Funktionen
 Zusätzlich zu den grundlegenden Funktionen bietet MensaMeister auch erweiterte Funktionen, um die Verwaltung und Analyse der Anwendung zu erleichtern:
